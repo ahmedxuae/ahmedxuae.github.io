@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Making Money with Electrical and Electronic Engineering</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav a {
+            margin: 0 1em;
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 2em 0;
+        }
+        .content {
+            background: #fff;
+            padding: 2em;
+            margin-bottom: 1em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Your Name</h1>
+    <p>Making Money with Electrical and Electronic Engineering</p>
+</header>
+
+<nav>
+    <a href="#about">About Me</a>
+    <a href="#business">Business Ideas</a>
+    <a href="#advice">Advice</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="container">
+    <section id="about" class="content">
+        <h2>About Me</h2>
+        <p>Hello! I have recently completed my degree in Electrical and Electronic Engineering. With a passion for technology and innovation, I'm exploring various ways to leverage my skills and knowledge to start a successful business and generate income.</p>
+    </section>
+
+    <section id="business" class="content">
+        <h2>Business Ideas</h2>
+        <p>Starting a business in the field of Electrical and Electronic Engineering can be highly rewarding. Here are some ideas to consider:</p>
+        <ul>
+            <li><strong>Consulting Services:</strong> Offer consulting services to businesses needing expertise in electrical systems, circuit design, or electronic product development.</li>
+            <li><strong>Product Development:</strong> Create and market innovative electronic devices or components. This could include IoT devices, wearable technology, or energy-efficient solutions.</li>
+            <li><strong>Repair and Maintenance:</strong> Start a business providing repair and maintenance services for electronic equipment, such as consumer electronics, industrial machinery, or medical devices.</li>
+            <li><strong>Online Courses and Tutorials:</strong> Develop and sell online courses or tutorials teaching various aspects of electrical and electronic engineering to students or hobbyists.</li>
+        </ul>
+    </section>
+
+    <section id="advice" class="content">
+        <h2>Advice on Making Money</h2>
+        <p>Here are some general tips on how to make money with your skills and knowledge:</p>
+        <ul>
+            <li><strong>Network:</strong> Build a strong professional network. Attend industry conferences, join professional organizations, and connect with others in your field.</li>
+            <li><strong>Stay Updated:</strong> Keep up with the latest trends and advancements in electrical and electronic engineering. Continuous learning will give you a competitive edge.</li>
+            <li><strong>Market Yourself:</strong> Create a professional online presence through a personal website and social media. Showcase your projects, skills, and expertise.</li>
+            <li><strong>Seek Mentorship:</strong> Find a mentor who has experience in the industry. Their guidance can be invaluable as you navigate your career and business endeavors.</li>
+        </ul>
+    </section>
+
+    <section id="contact" class="content">
+        <h2>Contact</h2>
+        <p>If you would like to get in touch with me, please reach out via email at <a href="mailto:your.email@example.com">your.email@example.com</a>.</p>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Your Name</p>
+</footer>
+
+</body>
+</html>
